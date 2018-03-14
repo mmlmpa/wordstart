@@ -26,7 +26,7 @@ Prints the words in the given string that start with the given letter
 Features
 --------
 
-* TODO
+* Still TODO. Nothing to add here yet. It is a very simple package.
 
 Credits
 -------
